@@ -162,9 +162,10 @@ a:hover {
 	bottom: 20px;
 	right: 20px;
 	z-index: 5;
+	color: white;
 }
 .topHome:hover {
-	color: #555;
+	color: #3d4aff;
 }
 /* Header 
 ----------------------------------------------*/
@@ -257,6 +258,7 @@ a:hover {
 	text-align: center;
 	margin: 18% auto 24px auto;
 	font-family: "Times New Roman", Times, serif;
+	font-size: 30px;
 }
 .hero-text p {
 	font-family: "Times New Roman", Times, serif;
@@ -280,7 +282,7 @@ a:hover {
 	width: 100%;
 }
 #section-strapline {
-	background: #f00bfff;
+	background: #f00bff;
 	line-height: 42px;
 	clear: both;
 }
@@ -387,7 +389,7 @@ a:hover {
 	background-size: 100% 100%;
 	background-size: cover;
 	position: relative;
-	border-bottom: 2px #0F60A0solid;
+	border-bottom: 2px #0F60A0 solid;
 }
 .banner-container > img {
 	width: 100%;
@@ -428,19 +430,19 @@ a:hover {
 	text-align: center;
 	vertical-align: top;
 	width: 60px;
-	color: #686868 !important;
+	color: rgb(216, 213, 213) !important;
 	border-radius: 98px;
-	border: 1px solid #fff;
+	border: 1px solid white;
 	padding: 6px 3px;
 }
 a.arrow-link {
-	color: #0F60A0;
+	color: #3856ff;
 }
 a.arrow-link:hover {
-	color: #fff;
+	color: #2f2fff;
 }
 .colord {
-	background: #0F60A0;
+	background: #357fff;
 }
 .colord h3 {
 	color: #fff;
@@ -524,7 +526,7 @@ img, video, iframe, embed, object {
 /* Features
     -------------------------------------------------*/
 #features h2 {
-	color: #fff;
+	color: #ffffff;
 }
 #features h4 {
 	color: #fff;
@@ -533,7 +535,7 @@ img, video, iframe, embed, object {
 	color: #A1C7FF;
 }
 #aboutUs {
-	background: #fff;
+	background: #ffffff;
 	padding-top: 35px;
 	padding-bottom: 25px;
 	overflow: hidden;
@@ -682,7 +684,7 @@ img, video, iframe, embed, object {
 .team-member h4 {
 	font-size: 19px;
 	line-height: 32px;
-	margin: 10px 0 0;
+	margin: 5px 0 0;
 	text-align: center;
 }
 .team-member .pos {
@@ -691,7 +693,7 @@ img, video, iframe, embed, object {
 	text-align: center;
 }
 .team-member .contact a {
-	padding: 0 8px;
+	padding: 0 5px;
 }
 .team-socials a {
 	background: white;
@@ -699,7 +701,7 @@ img, video, iframe, embed, object {
 	margin: 2px;
 }
 #contactUs {
-/*background: #0F60A0;*/;
+/*background: #0F60A0;*/
 }
 #contactUs .btn {
 	border-radius: 0px !important;
@@ -844,7 +846,7 @@ nav#filter a {
 	text-shadow: none;
 }
 .back-to-top:hover {
-	background: #333;
+	background: #dcd2d2;
 	color: #fff;
 	text-decoration: none;
 }
@@ -1064,7 +1066,7 @@ footer {
 	height: 240px;
 }
 .responsive-headline {
-	font-size: 16px !important
+	font-size: 16px !important;
 }
 .hero-text {
 	margin-top: 29%;
@@ -1191,7 +1193,7 @@ nav#filter li {
 }
 .contact-parlex {
 	padding-top: 0px;
-	background-image: url('../images/banner-bg.jpg');
+	background-image: url('/assets/Arbitrator.png');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
