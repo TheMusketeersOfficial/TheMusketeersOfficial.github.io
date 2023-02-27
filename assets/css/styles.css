@@ -304,7 +304,7 @@ a:hover {
 	font-style: normal;
 }
 .logo {
-	font-size: 2.0em;
+	font-size: 1.4em;
 	text-shadow: none;
 	margin: 8px 0 0 0;
 }
@@ -1066,7 +1066,7 @@ footer {
 	height: 240px;
 }
 .responsive-headline {
-	font-size: 16px !important;
+	font-size: 10px;
 }
 .hero-text {
 	margin-top: 29%;
