@@ -123,7 +123,7 @@ width: 99%;
 	background: rgba(255,255,255,0.35);
 }
 a {
-	color: #0F60A0;
+	color: #031f35;
 	text-decoration: none;
 	text-shadow: none;
 	-webkit-transition: all 0.2s linear;
@@ -304,7 +304,7 @@ a:hover {
 	font-style: normal;
 }
 .logo {
-	font-size: 2.2em;
+	font-size: 2.0em;
 	text-shadow: none;
 	margin: 8px 0 0 0;
 }
@@ -442,7 +442,7 @@ a.arrow-link:hover {
 	color: #2f2fff;
 }
 .colord {
-	background: #357fff;
+	background: #008080;
 }
 .colord h3 {
 	color: #fff;
@@ -664,12 +664,12 @@ img, video, iframe, embed, object {
 	margin-bottom: 80px;
 }
 .services .fa {
-	color: #0F60A0;
+	color: #145AC4;
 }
 /* Team
     ---------------------------------------------------*/
 #team {
-	background: #0F60A0;
+	background: #008080;
 }
 #team h2, #team p {
 	color: #fff;
@@ -1270,3 +1270,5 @@ nav#filter li {
 .isotopeWrapper article {
 	margin: 0px;
 }
+
+
